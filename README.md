@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fhenriqueaf
-- 👀 I’m interested in i don't now yet 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning through The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
